@@ -1,1 +1,1 @@
-# exampleofwebsite.github.ip
+# exampleofwebsite.github.io
